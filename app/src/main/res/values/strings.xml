@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hw1-mypage</string>
+    <string name="name">Natalie Portman</string>
+    <string name="phone1">052-123-7845</string>
+    <string name="email">natport@gmail.com</string>
+    <string name="hobbies_title">Hobbies:</string>
+    <string name="hobby1">Reading</string>
+    <string name="hobby2">Writing</string>
+    <string name="hobby3">Acting</string>
+    <string name="init">0</string>
+</resources>
